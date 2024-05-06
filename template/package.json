@@ -1,7 +1,7 @@
 {
-  "name": "ddubovcev", // название проекта
+  "name": "Dmitry", // название проекта
   "version": "1.0.0", 
-  "description": "newprojectddubovcev", // описание проекта
+  "description": "Dmitry", // описание проекта
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +15,6 @@
     "",
     ""
   ],
-  "author": "", // автор (необязательно)
+  "author": "ddubovcev340", // автор (необязательно)
   "license": "MIT"
 }
