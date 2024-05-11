@@ -1,20 +1,20 @@
 {
-  "name": "Dmitry", // название проекта
-  "version": "1.0.0", 
-  "description": "Dmitry", // описание проекта
+  "name": "ddub",
+  "version": "1.0.2",
+  "description": "newproject",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "git+ssh://git@github.com/AccDmit/ddubovcev.git"
   },
-  "keywords": [ // ключевые слова (необязательно)
-    "", 
-    "",
-    ""
-  ],
-  "author": "ddubovcev340", // автор (необязательно)
-  "license": "MIT"
+  "keywords": [],
+  "author": "ddubovcev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AccDmit/ddubovcev/issues"
+  },
+  "homepage": "https://github.com/AccDmit/ddubovcev#readme"
 }

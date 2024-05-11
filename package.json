@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@json-spec/testcheck": "^0.1.10"
+  }
+}
